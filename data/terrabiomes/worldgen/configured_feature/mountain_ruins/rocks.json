@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "default": "terrabiomes:mountain_ruins/smooth_basalt",
+      "features": [
+        {
+          "chance": 0.4,
+          "feature": "terrabiomes:mountain_ruins/basalt"
+        },
+        {
+          "chance": 0.2,
+          "feature": "terrabiomes:mountain_ruins/blackstone"
+        }
+      ]
+    }
+  }

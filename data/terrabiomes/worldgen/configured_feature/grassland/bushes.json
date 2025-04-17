@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "default": "terrabiomes:grassland/bushes/small",
+      "features": [
+        {
+          "chance": 0.7,
+          "feature": "terrabiomes:grassland/bushes/medium"
+        }
+      ]
+    }
+  }

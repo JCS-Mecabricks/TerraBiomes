@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "terrabiomes:snowy_forest",
+    "terrabiomes:snowy_dark_forest"
+  ]
+}

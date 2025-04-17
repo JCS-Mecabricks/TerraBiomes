@@ -1,0 +1,4 @@
+I credit lullaby6's blue groves datapack to help me make this datapack.
+https://github.com/lullaby6/blue-grove-data-pack/tree/main
+I also credit Terralith's biomes to help with the placments and trees
+https://github.com/Stardust-Labs-MC/license.

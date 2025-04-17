@@ -1,0 +1,14 @@
+{
+  "values": [
+    "terrabiomes:maple_forest",
+    "terrabiomes:twilight_forest",
+    "terrabiomes:alpine_meadow",
+    "terrabiomes:snowy_forest",
+    "terrabiomes:snowy_dark_forest",
+    "terrabiomes:tropical_rainforest",
+    "terrabiomes:mountain_ruins",
+    "terrabiomes:ice_swamp",
+    "terrabiomes:fire_swamp",
+    "terrabiomes:grassland"
+  ]
+}
