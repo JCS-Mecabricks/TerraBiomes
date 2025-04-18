@@ -7,6 +7,8 @@
 [![GitHub License](https://img.shields.io/github/license/JCS-Mecabricks/Terrabiomes?color=%2342e3f5)](https://github.com/JCS-Mecabricks/TerraBiomes/blob/main/LICENSE)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/JCS-Mecabricks/Terrabiomes?logo=github&color=yellow)](https://github.com/JCS-Mecabricks/TerraBiomes/issues)
 
+![Image](https://github.com/user-attachments/assets/7a643513-a3c2-4fcb-9a8b-f9da7b6c786d)
+
 ## Notes
 - Terrabiomes is compatible with my other mod Redwood but it will interfere with the generation sometimes.
 
