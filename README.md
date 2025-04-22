@@ -3,6 +3,7 @@
 ## TerraBiomes
 
 [![GitHub Release](https://img.shields.io/github/v/release/JCS-Mecabricks/Terrabiomes?include_prereleases&display_name=release&logo=github&color=dark-green)](https://github.com/JCS-Mecabricks/TerraBiomes/releases)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/terrabiomes?logo=Modrinth&label=Modrinth)](https://modrinth.com/datapack/terrabiomes)
 [![Discord](https://img.shields.io/discord/1362623309606289561?logo=discord&color=blue)](https://discord.gg/esy7Fy8Pfk)
 [![GitHub License](https://img.shields.io/github/license/JCS-Mecabricks/Terrabiomes?color=%2342e3f5)](https://github.com/JCS-Mecabricks/TerraBiomes/blob/main/LICENSE)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/JCS-Mecabricks/Terrabiomes?logo=github&color=yellow)](https://github.com/JCS-Mecabricks/TerraBiomes/issues)
