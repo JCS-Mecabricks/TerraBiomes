@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "travelers-adventures:cavern",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 14357619,
+
+    "spacing": 30,
+
+    "separation": 8,
+
+    "type": "minecraft:random_spread"
+  }
+}

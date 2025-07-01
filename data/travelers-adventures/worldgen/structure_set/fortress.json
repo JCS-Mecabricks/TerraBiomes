@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "travelers-adventures:fortress",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1649176354,
+
+    "spacing": 30,
+
+    "separation": 10,
+
+    "type": "minecraft:random_spread"
+  }
+}

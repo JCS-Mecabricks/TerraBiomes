@@ -1,0 +1,60 @@
+{
+  "name": "travelers-adventures:trading_post/trading_post/side_pool",
+"fallback": "minecraft:empty",
+"elements": [
+{
+"weight": 1,
+"element": {
+"location": "travelers-adventures:trading_post/trading_post_cartographer",
+"processors": "minecraft:empty",
+"projection": "rigid",
+"element_type": "minecraft:single_pool_element"
+}
+},
+{
+"weight": 1,
+"element": {
+"location": "travelers-adventures:trading_post/trading_post_fletcher",
+"processors": "minecraft:empty",
+"projection": "rigid",
+"element_type": "minecraft:single_pool_element"
+}
+},
+{
+"weight": 1,
+"element": {
+"location": "travelers-adventures:trading_post/trading_post_mason",
+"processors": "minecraft:empty",
+"projection": "rigid",
+"element_type": "minecraft:single_pool_element"
+}
+},
+  {
+    "weight": 1,
+    "element": {
+      "location": "travelers-adventures:trading_post/trading_post_shepherd",
+      "processors": "minecraft:empty",
+      "projection": "rigid",
+      "element_type": "minecraft:single_pool_element"
+    }
+  },
+  {
+    "weight": 1,
+    "element": {
+      "location": "travelers-adventures:trading_post/trading_post_toolsmith",
+      "processors": "minecraft:empty",
+      "projection": "rigid",
+      "element_type": "minecraft:single_pool_element"
+    }
+  },
+  {
+    "weight": 1,
+    "element": {
+      "location": "travelers-adventures:trading_post/trading_post_weaponsmith",
+      "processors": "minecraft:empty",
+      "projection": "rigid",
+      "element_type": "minecraft:single_pool_element"
+    }
+  }
+]
+}

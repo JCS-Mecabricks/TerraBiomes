@@ -1,0 +1,15 @@
+{
+    "name": "travelers-adventures:jungle_village/town_centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+  {
+  "weight": 2,
+  "element": {
+  "location": "travelers-adventures:jungle_village/town_centers/meeting_point",
+  "processors": "minecraft:empty",
+  "projection": "rigid",
+  "element_type": "minecraft:single_pool_element"
+  }
+  }
+  ]
+  }

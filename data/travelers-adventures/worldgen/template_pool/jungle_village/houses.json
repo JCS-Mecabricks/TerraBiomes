@@ -1,0 +1,114 @@
+{
+    "name": "travelers-adventures:jungle_village/houses",
+  "fallback": "minecraft:empty",
+  "elements": [
+  {
+  "weight": 4,
+  "element": {
+  "location": "travelers-adventures:jungle_village/houses/jungle_house_01",
+  "processors": "minecraft:empty",
+  "projection": "rigid",
+  "element_type": "minecraft:single_pool_element"
+  }
+  },
+  {
+    "weight": 3,
+    "element": {
+    "location": "travelers-adventures:jungle_village/houses/jungle_house_03",
+    "processors": "minecraft:empty",
+    "projection": "rigid",
+    "element_type": "minecraft:single_pool_element"
+    }
+    },
+  {
+  "weight": 4,
+  "element": {
+  "location": "travelers-adventures:jungle_village/houses/jungle_house_02",
+  "processors": "minecraft:empty",
+  "projection": "rigid",
+  "element_type": "minecraft:single_pool_element"
+  }
+  },
+  {
+    "weight": 4,
+    "element": {
+    "location": "travelers-adventures:jungle_village/houses/jungle_house_04",
+    "processors": "minecraft:empty",
+    "projection": "rigid",
+    "element_type": "minecraft:single_pool_element"
+    }
+    },
+      {
+    "weight": 4,
+    "element": {
+    "location": "travelers-adventures:jungle_village/houses/jungle_house_05",
+    "processors": "minecraft:empty",
+    "projection": "rigid",
+    "element_type": "minecraft:single_pool_element"
+    }
+    },
+  {
+    "weight": 2,
+    "element": {
+    "location": "travelers-adventures:jungle_village/houses/farm",
+    "processors": "minecraft:empty",
+    "projection": "rigid",
+    "element_type": "minecraft:single_pool_element"
+    }
+    },
+    {
+      "weight": 2,
+      "element": {
+      "location": "travelers-adventures:jungle_village/houses/butcher_house_1",
+      "processors": "minecraft:empty",
+      "projection": "rigid",
+      "element_type": "minecraft:single_pool_element"
+      }
+      },
+      {
+        "weight": 2,
+        "element": {
+        "location": "travelers-adventures:jungle_village/houses/butcher_house_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+        },
+              {
+        "weight": 2,
+        "element": {
+        "location": "travelers-adventures:jungle_village/houses/fletcher_house_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+        },
+              {
+        "weight": 2,
+        "element": {
+        "location": "travelers-adventures:jungle_village/houses/shepherds_house_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+        },
+        {
+          "weight": 2,
+          "element": {
+          "location": "travelers-adventures:jungle_village/houses/toolsmith_house_1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+          }
+          },
+          {
+            "weight": 2,
+            "element": {
+            "location": "travelers-adventures:jungle_village/houses/tannery_house_1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+            }
+            }
+  ]
+  }

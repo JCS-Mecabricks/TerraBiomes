@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "travelers-adventures:trading_post",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1642136474,
+
+    "spacing": 30,
+
+    "separation": 8,
+
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "travelers-adventures:trading_post",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "travelers-adventures:trading_post/trading_post",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
