@@ -38615,7 +38615,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_plains",
+          "biome": "terrabiomes:mountain_ruins",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -38642,7 +38642,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_plains",
+          "biome": "terrabiomes:mountain_ruins",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -38831,7 +38831,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_plains",
+          "biome": "terrabiomes:mountain_ruins",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -38858,7 +38858,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_plains",
+          "biome": "terrabiomes:mountain_ruins",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -38885,7 +38885,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_plains",
+          "biome": "terrabiomes:mountain_ruins",
           "parameters": {
             "continentalness": [
               0.03,
@@ -48173,7 +48173,7 @@
           }
         },
         {
-          "biome": "minecraft:stony_peaks",
+          "biome": "terrabiomes:tropical_rainforest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -48200,7 +48200,7 @@
           }
         },
         {
-          "biome": "minecraft:stony_peaks",
+          "biome": "terrabiomes:tropical_rainforest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -48281,7 +48281,7 @@
           }
         },
         {
-          "biome": "minecraft:stony_peaks",
+          "biome": "terrabiomes:tropical_rainforest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -48308,7 +48308,7 @@
           }
         },
         {
-          "biome": "minecraft:stony_peaks",
+          "biome": "terrabiomes:tropical_rainforest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -53087,7 +53087,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_slopes",
+          "biome": "terrabiomes:mountain_ruins",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -53222,7 +53222,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_slopes",
+          "biome": "terrabiomes:mountain_ruins",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -53249,7 +53249,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_slopes",
+          "biome": "terrabiomes:mountain_ruins",
           "parameters": {
             "continentalness": [
               0.03,
@@ -78737,7 +78737,7 @@
           }
         },
         {
-          "biome": "minecraft:meadow",
+          "biome": "terrabiomes:grassland",
           "parameters": {
             "continentalness": [
               0.3,
@@ -78764,7 +78764,7 @@
           }
         },
         {
-          "biome": "minecraft:meadow",
+          "biome": "terrabiomes:grassland",
           "parameters": {
             "continentalness": [
               0.3,
@@ -115295,7 +115295,7 @@
           }
         },
         {
-          "biome": "minecraft:sparse_jungle",
+          "biome": "terrabiomes:tropical_rainforest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -115322,7 +115322,7 @@
           }
         },
         {
-          "biome": "minecraft:sparse_jungle",
+          "biome": "terrabiomes:tropical_rainforest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -115349,7 +115349,7 @@
           }
         },
         {
-          "biome": "minecraft:sparse_jungle",
+          "biome": "terrabiomes:tropical_rainforest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -140567,7 +140567,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_slopes",
+          "biome": "terrabiomes:grassland",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -140729,7 +140729,7 @@
           }
         },
         {
-          "biome": "minecraft:snowy_slopes",
+          "biome": "terrabiomes:grassland",
           "parameters": {
             "continentalness": [
               0.03,
